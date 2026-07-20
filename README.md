@@ -49,6 +49,8 @@
 - Email: olayinkawal00@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lawal-olayinka-awal
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/Ayinkx1/Ayinkx1/blob/output/github-contribution-grid-snake.svg)
 
 
