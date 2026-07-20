@@ -43,7 +43,11 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+## 📫 Contact Me
 
+- GitHub: https://github.com/Ayinkx1
+- Email: olayinkawal00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lawal-olayinka-awal
 
 
 
