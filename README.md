@@ -1,56 +1,163 @@
-<h1 align="center">Hi 👋, I'm Ayinkx</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Open+Source+Contributor;Backend+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+# Hi 👋, I'm Ayinkx
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Open+Source+Contributor;Learning+Flask+%26+Backend+Development;Learning+Docker;Always+Learning+New+Things" />
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 💻 Self-taught Python Developer
-- 🌍 Open Source Contributor
-- 🐍 Learning Backend Development
-- 🚀 Interested in AI and Automation
-- 🤝 Looking to collaborate on Open Source projects
+- 🔭 Currently contributing to Open Source projects
+- 🌱 Learning **Flask, Flask API, HTML, CSS, Docker and SQL**
+- 🐍 Python Developer
+- 💡 Passionate about Backend Development and Automation
+- 🤝 Looking to collaborate on Python and Open Source projects
+- 📚 Self-taught developer who enjoys learning by building projects
 
-- ## 🛠 Tech Stack
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💻 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,docker,git,github,markdown,vscode,linux" />
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=Ayinkx1&theme=tokyonight)
+<p align="center">
 
-## 🌍 Most Used Languages
+<img src="https://streak-stats.demolab.com?user=Ayinkx1&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx1&layout=compact&theme=tokyonight)
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-## 📈 Contribution Graph
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+---
 
-## 📫 Contact Me
+## 📈 Contribution Activity
 
-- GitHub: https://github.com/Ayinkx1
-- Email: olayinkawal00@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lawal-olayinka-awal
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ayinkx1/Ayinkx1/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
 
+<img src="https://github.com/Ayinkx1/Ayinkx1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Ayinkx1" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/awal-olayinka-awal" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:olayinkaawal00@gmailicom">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+</a>
+
+<a href="https://www.facebook.com/YOURUSERNAME" target="_blank">
+<img src="https://img.shields.io/badge/ayinkxreacts-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ayinkxreacts" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@ayinkxreacts" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Ayinkx_" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Ayinkx" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/Ayinkx" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Current Focus
+
+- 🚀 Building real-world Python projects
+- 🌍 Contributing to Open Source
+- 🧩 Strengthening Backend Development skills
+- 🐳 Learning Docker
+- 🌐 Improving Flask & REST API development
+- 📖 Preparing to learn SQL in depth
+
+---
+
+## 📌 Developer Philosophy
+
+> "Every contribution, no matter how small, is another step toward becoming a better software engineer."
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Ayinkx1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+Happy Coding! 🚀
+
+</div>
